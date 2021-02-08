@@ -1,0 +1,41 @@
+31-01-2021
+
+Must
+
+	Song lyrics 	- 	Malayalam, with chord, with indentation
+
+	Song Search 	- 	Each search listing should have an option menu to add that song to a list, 
+				 		 search prediction, Genre of the song (take care of other genre songs)
+				 		 (define number of search results)
+
+	Song music  	- 	Mostly links to youtube, Karaoke link from youtube
+
+	Mass prayer 	- 	Inside prayers, insert music links in proper places (Entrance, Pslam, Gospel etc)
+						(Consider this feature as a future update or not :())
+
+	Request for 
+	new songs		- 	Name, Youtube link, Genre (dropdown list), Option to create next request, 
+							At last a description box
+
+	Song lists		- 	Option to create list, by browsing or by searching, ( Option to create separate list for
+						Holy mass and custome list, Holy mass list can be applied to Mass prayer, will contain specific genres)
+
+	Report Error	- 	Error Description (Title, lyrics, chords, music link, application(features not working))
+
+	(Settings)		- 	Provide different styles as themes in settings (eg different search icon positions etc)
+
+	About			- 	Current version, made for ppm church
+
+
+
+
+Should
+
+	Song details 	- Album, Year, Singers, ( Lyricist, Music Director )
+	Recents		 	- 
+
+
+
+Could (Future Development)
+
+	Scrolling music - Analyze ambient sound and scroll Music
